@@ -1,2 +1,0 @@
-print("Welcome to cloud-computing-case-study")
-print("This is the main program file.")
